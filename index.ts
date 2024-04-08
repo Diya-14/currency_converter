@@ -1,4 +1,4 @@
-#! bin/env/usr
+#! /usr/bin/env node
 import inquirer from "inquirer"
 
 const currency:any={
